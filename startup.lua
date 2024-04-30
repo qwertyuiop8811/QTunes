@@ -1,1 +1,1 @@
-os.run({}, "QTunes.lua")
+os.run({}, "QTunes")
